@@ -1,0 +1,2 @@
+model_checkpoint_path: "weights_CartPole_lr=0.0001_gam=0.9_100epochs_eps=1_0.01_fc8_bs512"
+all_model_checkpoint_paths: "weights_CartPole_lr=0.0001_gam=0.9_100epochs_eps=1_0.01_fc8_bs512"
